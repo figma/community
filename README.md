@@ -7,4 +7,4 @@ You can create an account or login here: https://spectrum.chat/figma
 
 By participating in this community you are agreeing to our [Code of Conduct](https://github.com/figma/community/blob/master/code-of-conduct.md)
 
-If you have any questions feel free to reach out to our Community Manager (josh@figma.com)
+If you have any questions feel free to reach out to our Community Manager at josh@figma.com
